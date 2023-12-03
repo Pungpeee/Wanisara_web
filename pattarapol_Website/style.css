@@ -1,0 +1,13 @@
+body {
+    background-color: pink;
+}
+img {
+    height: 200px;
+    width: 50%;
+}
+h1 {
+    color: white;
+}
+a:hover {
+    background-color: red;
+  }
